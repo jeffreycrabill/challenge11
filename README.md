@@ -1,5 +1,5 @@
 ## Time Series Forecasting
-he purpose of this report is to use time series data to examine the sales, search, and stock trends of Macro Libre, South America's largest online retailer. We will find unusual patterns in hourly Google search traffic, mine the search traffic data for seasonality, relate the search traffic to stock price patterns, create a time series model with Prophet, and forecast revenue by using time series models.
+The purpose of this report is to use time series data to examine the sales, search, and stock trends of Macro Libre, South America's largest online retailer. We will find unusual patterns in hourly Google search traffic, mine the search traffic data for seasonality, relate the search traffic to stock price patterns, create a time series model with Prophet, and forecast revenue by using time series models.
 ---
 
 ## Technologies
